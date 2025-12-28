@@ -8,7 +8,17 @@ Reingeniería Educativa (ReEdu) es una oraganización no gubernamental de desarr
 
 ### Alcance
 
-> Listar los principales alcances del proyecto
+* Diseñar y documentar los procesos de planeamiento, desarrollo, ejecución, control y mejora contínua de la educación escolar.
+
+* El diseño deberá incorporar los avances disponibles a la fecha en materia de educación, pedagogía y tecnología de información, pero deberá establecer los mecanismos para su contínua evolución y mejoramiento.
+
+* Diseñar y documentar toda la infraestructura de tecnología de información y aplicaciones necesarias para permitir y soportar la operación transparente, eficiente, eficaz y económica de los procesos arriba mencionados.
+
+* Producir o adquirir los contenidos necesarios para poder ejecutar la labor de educación escolar acorde con el ODS 4 de la Agenda 2030 de la ONU y los objetivos y regulaciones del Ministerio de Educación del Perú.
+
+* Publicar todos los diseños, aplicaciones y contenidos arriba descritos, y en general todos los documentos, estudios, análisis, datos, reportes y cuanto material sea generado por el proyecto, bajo licencias de acceso abierto compatibles con MIT o CC BY 4.0.
+
+* Establecer un ecosistema de soporte, ayuda y canalización con priorización transparente, de recursos para la implementación de los procesos y sistemas arriba mencionados en instituciones educativas en todo el Perú.
 
 ### Entregables
 
@@ -42,3 +52,6 @@ Reingeniería Educativa (ReEdu) es una oraganización no gubernamental de desarr
 ## Supuestos y Limitaciones
 
 > Listar los principales supuestos y limitaciones asumidos al momento de la preparacion de estos TdR.
+
+* Los miembros fundadores de ReEdu donarán el tiempo y recursos necesarios para establecer y echar a andar el proyecto.
+* Hay suficientes personas, organizaciones e instituciones competentes e interesadas en el mejoramiento de la eduación en el Perú como para poder obtener los recursos necesarios para poder sostener el proyecto y desarrollar los objetivos de ReEdu.
