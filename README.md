@@ -28,13 +28,13 @@ Reingeniería Educativa (ReEdu) es una oraganización no gubernamental de desarr
 
 > Describir los principales roles y responsabilidades del proyecto
 
-* Gerente del Proyecto - Javier Bellido - Responsable por el desarroyo y ejecución del proyecto.
+* Gerente del Proyecto - (vacante) - Responsable por el desarroyo y ejecución del proyecto.
 * Cliente del Proyecto - Consejo Directivo de Reingeniería Educativa - Responsable por la aprobación de los TdR, la aceptación de los entregables, la aprobación de los 'Stage Gates' yde la provisión de los fondos y recursos necesarios para el desarrollo y ejecución del proyecto.
 * Gerente de TI - (vacante) - Responsable por el diseño y desarrollo de la arquitectura y aplicaciones de TI.
-* Gerente de Procesos e Innovación - Giancarlo Flores - Dueño y responsable por el diseño de los procesos de negocio (si bien aquí el negocio es el comunal de la educación).
+* Gerente de Procesos e Innovación - (vacante) - Dueño y responsable por el diseño de los procesos de negocio (si bien aquí el negocio es el comunal de la educación).
 * Experto en Educación - (vacante) - Proveer y conseguir experiencia diversa en materia de educación y pedagogía.
 * Gerente de Communicaciones - (vacante) - Responsable por la estrategia y planes de comunicación del proyecto.
-* Gerente de Finanzas y Recursos Humanos - Enrique Barcelli - Proveer eficiencia y transparencia en la administración de los fondos y recursos del proyecto.
+* Gerente de Finanzas y Recursos Humanos - (vacante) - Proveer eficiencia y transparencia en la administración de los fondos y recursos del proyecto.
 
 ## Plan de Recursos, Calidad, Finanzas y Gobierno
 
