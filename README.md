@@ -28,16 +28,11 @@ Reingeniería Educativa (ReEdu) es una oraganización no gubernamental de desarr
 
 > Describir los principales roles y responsabilidades del proyecto
 
-* Director del Proyecto - Javier Bellido
-  Responsable por el desarroyo y ejecución del proyecto
-* Director de TI - (vacante)
-  Responsable por el diseño y desarrollo de la arquitectura y aplicaciones de TI
-* Director de Procesos e Innovación - Giancarlo Flores
-  Dueño y responsable por el diseño de los procesos de negocio (si bien aquí el negocio es comunal de la educación)
-* Experto en Educación - (vacante)
-  Proveer y conseguir experiencia diversa en materia de educación y pedagogía
-* Director de Finanzas y Recursos Humanos - Enrique Barcelli
-  Proveer eficiencia y transparencia en la administración de los fondos y recursos del proyecto
+* Director del Proyecto - Javier Bellido - Responsable por el desarroyo y ejecución del proyecto
+* Director de TI - (vacante) - Responsable por el diseño y desarrollo de la arquitectura y aplicaciones de TI
+* Director de Procesos e Innovación - Giancarlo Flores - Dueño y responsable por el diseño de los procesos de negocio (si bien aquí el negocio es comunal de la educación)
+* Experto en Educación - (vacante) - Proveer y conseguir experiencia diversa en materia de educación y pedagogía
+* Director de Finanzas y Recursos Humanos - Enrique Barcelli - Proveer eficiencia y transparencia en la administración de los fondos y recursos del proyecto
 
 ## Plan de Recursos, Calidad, Finanzas y Gobierno
 
