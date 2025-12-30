@@ -48,6 +48,18 @@ Reingeniería Educativa (ReEdu) es una oraganización no gubernamental de desarr
 
 > Nombrar cada Fase del Proyecto e incluir el enlace a su respectivos Términos de Referencia (TdR)
 
+1. Descubrimiento
+
+2. Definición de Alcances
+
+3. Justificación Económica (Viabilidad y Fondeo)
+
+4. Desarrollo
+
+5. Test y Validación
+
+6. Lanzamiento
+
 ## Principales Incidencias y Riesgos
 
 > Listar las principales incidencias y riesgos identificados al momento de preparar estos TdR.
