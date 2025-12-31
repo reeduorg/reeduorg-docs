@@ -64,10 +64,10 @@ Reingeniería Educativa (ReEdu) es una oraganización no gubernamental de desarr
 
 > Listar las principales incidencias y riesgos identificados al momento de preparar estos TdR.
 
-| Incidencia/Rieso | Descripción                                                                                                                            | Calificación | Mitigación                                                                                                                                                     |
-|:----------------:| -------------------------------------------------------------------------------------------------------------------------------------- |:------------:| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Riesgo           | Invertir gran cantidad de esfuerzo y recursos y al final no obtener interés de la comunidad o de los principales actores involucrados. | Alto         | Conectar lo más temprano posible con los stakeholders clave. Desarrollar el proyecto en fases ('stagegated').                                                  |
-| Riesgo           | No ser capaces de asegurar los recursos y fondos necesarios.                                                                           | Alto         | Mantener el proyecto lo más liviano posible. Conectar lo más temprano posible con potenciales patrocinadores. Desarrollar el proyecto en fases ('stagegated'). |
+| Incidencia/Riesgo | Descripción                                                                                                                            | Calificación | Mitigación                                                                                                                                                     |
+|:-----------------:| -------------------------------------------------------------------------------------------------------------------------------------- |:------------:| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Riesgo            | Invertir gran cantidad de esfuerzo y recursos y al final no obtener interés de la comunidad o de los principales actores involucrados. | Alto         | Conectar lo más temprano posible con los stakeholders clave. Desarrollar el proyecto en fases ('stagegated').                                                  |
+| Riesgo            | No ser capaces de asegurar los recursos y fondos necesarios.                                                                           | Alto         | Mantener el proyecto lo más liviano posible. Conectar lo más temprano posible con potenciales patrocinadores. Desarrollar el proyecto en fases ('stagegated'). |
 
 ## Supuestos y Limitaciones
 
