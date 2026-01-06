@@ -2,7 +2,7 @@
 
 ## Misión
 
-Reingeniería Educativa (ReEdu) es una oraganización no gubernamental de desarrollo sin fines de lucro establecida en la República del Perú, con la misión de fomentar la mejora en la calidad y acceso a la edcucación de la población en edad escolar, y que genere a largo plazo un crecimiento económico y social, sostenido, inclusivo y sostenible.
+Reingeniería Educativa (ReEdu) es una organización no gubernamental de desarrollo sin fines de lucro establecida en la República del Perú, con la misión de fomentar la mejora en la calidad y acceso a la edcucación de la población en edad escolar, y que genere a largo plazo un crecimiento económico y social, sostenido, inclusivo y sostenible.
 
 ## Objetivos del Proyecto
 
