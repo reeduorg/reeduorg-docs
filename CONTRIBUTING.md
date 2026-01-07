@@ -32,7 +32,7 @@ Bugs y errores se manejan como issues.
   * Los pasos para reproducir el issue.
   * El comportamiento que tu esperabas.
   * El comportamiento problemático que tú observas.
-  * Incluye ejemplos, pantallazos, logs y cualquier otro elemento que tú pienses pueda ser útil.
+  * Incluye ejemplos, pantallazos, logs y cualquier otro elemento que tú pienses que pueda ser útil.
 
 Nosotros atenderemos tu reporte lo más pronto posible.
 
