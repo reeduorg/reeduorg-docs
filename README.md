@@ -22,7 +22,13 @@ Reingeniería Educativa (ReEdu) es una organización no gubernamental de desarro
 
 ### Entregables
 
-> Listar los principales entregables del proyecto
+* Un repositorio con la documentación de los procesos de planeamiento, desarrollo, ejecución, control y mejora contínua de la eduación escolar. Esto incluye pero no se limita a diagramas de flujo de proceso, roles y responsabilidades, especificaciones funcionales, procedimientos operacionales, instrucciones de trabajo, etc. 
+
+* Un repositorio con la documentación del modelo de datos, la arquitectura de los sistemas de información, las aplicaciones que forman parte de la misma, sus configuraciones y código fuente, manuales de operación y administración.
+
+* Un repositorio con los contenidos necesarios para la ejecución de la labor de educación escolar acorde con el ODS 4 de la Agenda 2030 de la ONU y los objetivos y regulaciones del Ministerio de Educación del Perú.
+
+* Una organización, comunidad y ecosistema permanente de soporte, ayuda y canalización con priorización transparente, de recursos para la implementación de los procesos y sistemas arriba mencionados en instituciones educativas en todo el Perú.
 
 ## Roles y Responsabilidades del Proyecto
 
