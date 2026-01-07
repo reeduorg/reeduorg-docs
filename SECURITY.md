@@ -1,3 +1,21 @@
+# Política de Seguridad
+
+## Versiones Soportadas
+
+| Versión | Soportada          |
+| ------- | ------------------ |
+| 0.1.x   | :heavy_check_mark: |
+
+## Reporte
+
+Nosotros tomamos la Seguridad seriamente, si usted descubre un riesgo de seguridad repórtelo por email a [kiko@reedu.org](mailto:kiko@reedu.org) preferiblemente usando mensajes encriptados end-to-end con la siguiente PGP key: [0x70c7d0901133471df2e6e9a8006c13a68e25d3b7](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x70c7d0901133471df2e6e9a8006c13a68e25d3b7).
+
+Nuestro equipo evaluará y manejará su reporte adecuadamente. Por favor no disemine o haga público el riesgo de seguridad hasta que haya sido manejado por nuestro equipo.
+
+La recepción de su email será confirmada dentro las siguientes 24 horas, y en un plazo de 1 semana usted recibirá un email con una respuesta más detallada sobre las acciones a ser tomadas para manejar su reporte.
+
+------------------------------------------------------------------------------
+
 # Security Policy
 
 ## Supported Versions
