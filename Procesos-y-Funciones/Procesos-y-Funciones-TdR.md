@@ -4,7 +4,7 @@
 
 ### Alcance
 
-* Diseñar y documentar los procesos de planeamiento, desarrollo, ejecución, control y mejora contínua de la educación escolar.
+* Diseñar y documentar los procesos involucrados en el planeamiento, desarrollo, ejecución, control y mejora contínua de la educación escolar.
 
 * El diseño deberá incorporar los avances disponibles a la fecha en materia de educación, pedagogía y tecnología de información, pero deberá establecer los mecanismos para su contínua evolución y mejoramiento.
 
@@ -51,8 +51,6 @@
 
 ## Principales Incidencias y Riesgos
 
-> Listar las principales incidencias y riesgos identificados al momento de preparar estos TdR.
-
 | Incidencia/Riesgo | Descripción                                                                                                                            | Calificación | Mitigación                                                                                                                                                     |
 |:-----------------:| -------------------------------------------------------------------------------------------------------------------------------------- |:------------:| -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Riesgo            | Invertir gran cantidad de esfuerzo y recursos y al final no obtener interés de la comunidad o de los principales actores involucrados. | Alto         | Conectar lo más temprano posible con los stakeholders clave. Desarrollar el proyecto en fases ('stagegated').                                                  |
@@ -60,17 +58,23 @@
 
 ## Supuestos y Limitaciones
 
-> Listar los principales supuestos y limitaciones asumidos al momento de la preparacion de estos TdR.
-
 * Los miembros fundadores de ReEdu donarán el tiempo y recursos necesarios para establecer y echar a andar el proyecto.
 * Hay suficientes personas, organizaciones e instituciones competentes e interesadas en el mejoramiento de la eduación en el Perú como para poder obtener los recursos necesarios para poder sostener el proyecto y desarrollar los objetivos de ReEdu.
 * Se requerirá mapear aproximadamente 8 procesos de alto nivel, algo similar a:
-  * Establecer objetivos
-  * Definir estrategias
-  * Especificar los contenidos
-  * Producir los contenidos, materiales, scripts, métodos
-  * Impartir la educación
-  * Monitorear y controlar el logro de los objetivos
-  * Manejar el cumplimiento / incumplimiento de los objetivos
-  * Aprender para la mejora contínua
-* El costo promedio de la hh de esfuerso será aproximadamente US$ 55
+  * Procesos de Gestión:
+    * Planificar y proyectar el futuro de la educación
+    * Manejar la comunicación e involucramiento con la comunidad y la sociedad
+    * Monitorear y optimizar el desempeño de la educación
+    * Manejar el involucramiento de los padres o guardianes
+  * Procesos Operativos:
+    * Diseñar y desarrollar los curricula, contenidos, materiales, scripts, métodos para la educación
+    * Impartir la educación a los estudiantes
+    * Monitorear y optimizar el desempeño de los estudiantes
+    * Administrar la seguridad y bienestar de los estudiantes y docentes
+  * Procesos de Apoyo:
+    * Reclutar, contratar, capacitar y administrar el talento docente
+    * Registrar y administrar los registros de la educación
+    * Adquirir, gestionar y mantener la infraestructura y suministros para la educación
+    * Mantener y asegurar la infraestructura tecnológica (TI)
+    * Garantizar el cumplimiento legal y normativo
+* El costo promedio de la hh de esfuerzo será aproximadamente US$ 55
