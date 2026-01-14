@@ -36,6 +36,8 @@
 
 > Describir las fases, hitos, tiempos y decomposición del trabajo del proyecto.
 
+* Este proyecto tiene como dependencia el haber completado el diseño de los procesos de educación según [Procesos-y-Funciones-TdR.md](../Procesos-y-Funciones/Procesos-y-Funciones-TdR.md)
+
 ## Principales Incidencias y Riesgos
 
 > Describir las principales incidencias y riesgos identificados al momento de la prepareación de estos TdR.
