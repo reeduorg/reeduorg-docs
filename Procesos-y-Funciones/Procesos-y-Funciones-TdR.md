@@ -29,25 +29,21 @@
 
 ## Plan de Recursos, Calidad, Finanzas y Gobierno
 
-> Describir los principales recursos necesarios y como se controlarán y administrarán
-
 * La mayoría de los contribuyentes al proyecto serán senior en sus respectivas áreas de experiencia, y es de esperar que puedan contribuir con tiempo limitado, por tanto el trabajo será estructurado en base a una serie de co-locaciones con compromiso de las partes y sus respectivas organizaciones de liberar el tiempo necesario para desarrollar el trabajo.
 
 * Se utilizará un modelo de "stage gates", aprobando los diseños alto nivel antes de continuar desarrollando los diseños de detalle, de modo de limitar el re-trabajo.
 
 * El trabajo de los contribuyentes podrá será valorizado y remunerado, o gentilmente donado por los mismos.
 
-* La calidad y usabilidad de los diseños será evaluada por un "sounding board" de expertos en la materia y finalmente aceptado por el Clente del Proyecto (Consejo Directivo de Reingeniería Educativa).
+* La calidad y usabilidad de los diseños será evaluada por un "sounding board" de expertos en la materia y finalmente aceptados por el Ejecutivo del Proyecto (Presidente del Consejo Directivo de Reingeniería Educativa).
 
 ## Decomposición y Programación del Trabajo
-
-> Describir las principales fases e hitos del proyecto
 
 | Fase                                                          | Personas involucradas                                   | Duración                            | Esfuerzo     | Costo (US$) | Gastos de co-locación (US$) |
 | ------------------------------------------------------------- |:-------------------------------------------------------:|:-----------------------------------:|:------------:|:-----------:|:---------------------------:|
 | Involucrar stakeholders                                       | 3                                                       | 6 meses                             | 200 hh       | 11,000      | -                           |
 | Definir un "sounding board"                                   | 6 - 8                                                   | 2 meses                             | 80 hh        | 4,400       | -                           |
-| Producir / copiar diseño de alto nivel 0, 1                   | 8 - 12                                                  | 3 - 4 días                          | 400 hh       | 22,000      | 3,200                       |
+| Definir diseño de alto nivel 0, 1                             | 8 - 12                                                  | 3 - 4 días                          | 400 hh       | 22,000      | 3,200                       |
 | Producir / adaptar diseño de nivel 2, 3, lo que sea necesario | 8 - 12<br/>(8 co-locations con 6 - 8 personas cada uno) | 8 x (3 - 4 días) en 20 - 40 semanas | 2,200 hh     | 121,000     | 25,600                      |
 | Aprobar el diseño por expertos especialistas en cada materia  | 2 x (6 - 8)                                             | 1 semana                            | 300 hh       | 16,500      | -                           |
 | Aprobar el diseño por el "sounding board" usando Stage Gates  | 6 - 8                                                   | 1 semana                            | 80 hh        | 4,400       | -                           |
