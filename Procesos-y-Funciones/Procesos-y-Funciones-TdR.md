@@ -12,9 +12,11 @@
 
 ### Entregables
 
-> Listar los principales entregables del proyecto
+> 
 
 * Mapas de flujo de procesos a nivel 3 (Instrucciones de trabajo / Tareas) o nivel 4/5 (Automatización / Simulación) si fuera necesario.
+* Descripción (documentación) de los procesos.
+* Descripción (documentación) de los roles y responsabilidades de los procesos.
 
 ## Roles y Responsabilidades del Proyecto
 
