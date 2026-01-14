@@ -32,10 +32,8 @@ Reingeniería Educativa (ReEdu) es una organización no gubernamental de desarro
 
 ## Roles y Responsabilidades del Proyecto
 
-> Describir los principales roles y responsabilidades del proyecto
-
 * Gerente del Proyecto - (vacante) - Responsable por el desarroyo y ejecución del proyecto.
-* Cliente del Proyecto - Consejo Directivo de Reingeniería Educativa - Responsable por la aprobación de los TdR, la aceptación de los entregables, la aprobación de los 'Stage Gates' y de la provisión de los fondos y recursos necesarios para el desarrollo y ejecución del proyecto.
+* Ejecutivo del Proyecto - Presidente del Consejo Directivo de Reingeniería Educativa - Responsable por la aprobación de los TdR, la aceptación de los entregables, la aprobación de los 'Stage Gates' y de la provisión de los fondos y recursos necesarios para el desarrollo y ejecución del proyecto.
 * Gerente de TI - (vacante) - Responsable por el diseño y desarrollo de la arquitectura y aplicaciones de TI.
 * Gerente de Procesos e Innovación - (vacante) - Dueño y responsable por el diseño de los procesos de negocio (si bien aquí el negocio es el comunal de la educación).
 * Experto en Educación - (vacante) - Proveer y conseguir experiencia diversa en materia de educación y pedagogía.
