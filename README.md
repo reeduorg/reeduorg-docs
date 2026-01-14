@@ -78,4 +78,4 @@ Reingeniería Educativa (ReEdu) es una organización no gubernamental de desarro
 > Listar los principales supuestos y limitaciones asumidos al momento de la preparacion de estos TdR.
 
 * Los miembros fundadores de ReEdu donarán el tiempo y recursos necesarios para establecer y echar a andar el proyecto.
-* Hay suficientes personas, organizaciones e instituciones competentes e interesadas en el mejoramiento de la eduación en el Perú como para poder obtener los recursos necesarios para poder sostener el proyecto y desarrollar los objetivos de ReEdu.
+* Hay suficientes personas, organizaciones e instituciones competentes e interesadas en el mejoramiento de la educación en el Perú como para poder obtener los recursos necesarios para poder sostener el proyecto y desarrollar los objetivos de ReEdu.
