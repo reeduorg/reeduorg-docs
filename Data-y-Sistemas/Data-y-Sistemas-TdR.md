@@ -53,3 +53,4 @@
 
 * Los miembros fundadores de ReEdu donarán el tiempo y recursos necesarios para establecer y echar a andar el proyecto.
 * Hay suficientes personas, organizaciones e instituciones competentes e interesadas en el mejoramiento de la eduación en el Perú como para poder obtener los recursos necesarios para poder sostener el proyecto y desarrollar los objetivos de ReEdu.
+* Es posible diseñar, desarrollar y construir una ifraestructura de TI y paisaje de aplicaciones para soportar los procesos de educación escolar utilizando exclusivamente en tecnología de código abierto.
