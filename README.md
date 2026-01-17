@@ -8,7 +8,7 @@ Reingeniería Educativa (ReEdu) es una organización no gubernamental de desarro
 
 ### Alcance
 
-* Diseñar y documentar los procesos de planeamiento, desarrollo, ejecución, control y mejora contínua de la educación escolar.
+* Diseñar y documentar los procesos involucrados en el planeamiento, desarrollo, ejecución, control y mejora contínua de la educación escolar.
 
 * El diseño deberá incorporar los avances disponibles a la fecha en materia de educación, pedagogía y tecnología de información, pero deberá establecer los mecanismos para su contínua evolución y mejoramiento.
 
