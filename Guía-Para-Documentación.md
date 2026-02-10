@@ -23,3 +23,15 @@ Los archivos están organizados de la siguiente forma:
 5. Preparación y Soporte Para la Implementación - Documentos relacionados a los planes, ejecución y soporte de las actividades de implementación de escenarios piloto y de producción específicos.
 
 6. Gerenciamiento de Proyectos - Documentos relacionados al planeamiento, ejecución, control y gobierno del proyecto.
+
+## Aplicaciones de código abierto recomendadas para la documentación
+
+| Propósito                               | Aplicación                                             | Formato de salida |
+| --------------------------------------- | ------------------------------------------------------ | ----------------- |
+| Documentos de texto o markdown          | MarkText, VS Code, Vim, Nano, Notepad, TextEdit, Pluma | .txt, .md         |
+| Diagramas de flujo BPMN 2.0             | bpmn.io                                                | .bpmn             |
+| Diagramas de decisión DMN 1.3           | bpmn.io                                                | .dmn              |
+| Pizarras de trabajo colaborativo        | excalidraw.com                                         | .excalidraw       |
+| Presentaciones                          | LibreOffice Impress                                    | .fodp             |
+| Hojas de cálculo                        | LibreOffice Calc                                       | .fods             |
+| Texto enriquecido y de formato complejo | LibreOffice Writer                                     | .fodt             |
